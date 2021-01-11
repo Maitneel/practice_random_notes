@@ -11,6 +11,6 @@
   }
   button.onclick = () => {
     console.log('pushed button')
-    document.body.requestFullscreen();
+    document.documentElement.requestFullscreen();
   }
 })();
