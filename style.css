@@ -1,6 +1,31 @@
 #contents_area {
   width: 300px;
-  height: 550px;
-  background-color: #ffffff;
+  height: 551px;
+  background-color: red;
   margin: auto;
+  overflow: hidden;
+}
+
+#judge_line {
+  width: 20px;
+  height: 550px;
+  margin-top: 0px;
+  margin-left: 30px;
+  background-color: #000000;
+  position: absolute;
+}
+
+.notes_area {
+  width: 300px;
+  height: 100px;
+  background-color: white;
+  border-top: 1px solid red;
+}
+
+#notes_area0 {
+  margin-top: 73px;
+}
+
+#notes_area3 {
+  border-bottom: 1px solid red;
 }
