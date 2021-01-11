@@ -1,13 +1,6 @@
-body {
-  width: 360px;
-  height: 720px;
-  margin: 0px;
-}
-
 #contents_area {
-  width: 360px;
-  height: 640px;
+  width: 300px;
+  height: 550px;
   background-color: #ffffff;
   margin: auto;
-  margin-top: 130px;
 }
